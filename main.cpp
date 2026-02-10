@@ -19,7 +19,6 @@ void gift(string username);
 void withdraw(string username);
 void luckyWheel(string username);
 void deleteUserAcc(string username);
-void logout(string username);
 bool isUserPassCorrect(string user, string pass);
 bool isUserExist(string username);
 void writeToCredentialFile();
